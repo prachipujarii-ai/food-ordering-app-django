@@ -19,7 +19,7 @@ This project demonstrates Django fundamentals including **class-based views, con
 - **db.sqlite3** → Database file
 - **manage.py** → Django project manager
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Create Project & App
 ```django-admin startproject mysite .```
@@ -50,7 +50,7 @@ Keys become variables accessible in HTML.
 
 Username: your_username
 Password: your_password
-Email: user@gmail.com
+Email: youremail@gmail.com
 
 ## Usage
 1. Press `Ctrl+C` to stop the server.
