@@ -66,7 +66,7 @@ Email: youremail@gmail.com
 
 ## Author
 Developed by Prachi Pujari
-Email: `prchpujarii@gmail.com`
+Email: `@prachipujarii-ai`
 
 
 
